@@ -15,6 +15,7 @@
     "_awsp": "./run.sh"
   },
   "dependencies": {
-    "inquirer": "^5.0.1"
+    "inquirer": "^5.0.1",
+    "inquirer-search-list": "^1.2.6"
   }
 }
